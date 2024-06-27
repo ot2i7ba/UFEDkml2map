@@ -62,3 +62,9 @@ A. All
 Enter the number of the plot type (default is 1):
 Output HTML filename (enter for 'YYMMDDHHMMSS_scatter_plot.html'):
 ```
+
+## License
+This project is licensed under the **[MIT license](https://github.com/ot2i7ba/UFEDkml2map/blob/main/LICENSE)**, providing users with flexibility and freedom to use and modify the software according to their needs.
+
+## Disclaimer
+This project is provided without warranties. Users are advised to review the accompanying license for more information on the terms of use and limitations of liability.
